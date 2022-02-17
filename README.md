@@ -117,3 +117,8 @@ This project can be made better, and will evolve in the coming weeks. Your contr
 ```
 nile compile
 ```
+
+### M1 Mac users
+Run a Rosetta Terminal and install x86 versions of packages by following [these instructions](http://sixty-north.com/blog/pyenv-apple-silicon.html)
+
+## How it works
